@@ -5,4 +5,6 @@ Prerequisites:
 
 ### 1. SQL injection natas
 
-Run `node sqli_liskovskis.mjs`
+Run `node hmw1/sqli_liskovskis.mjs`
+
+See the report under `hmw1` directory.
